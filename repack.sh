@@ -11,8 +11,6 @@ fi
 
 cd modified_ramdisk
 
-chmod 4755 xbin/su
-
 find . | cpio --create --format='newc' > ../tmp/E2303_26.1.A.2.99.ramdisk.cpio
 
 cd ..

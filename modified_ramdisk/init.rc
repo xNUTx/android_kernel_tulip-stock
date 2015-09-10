@@ -33,10 +33,14 @@ on early-init
     # CORE_EL_power_off_charging_00+
     chmod 0777 /charger
 
-    chmod 0777 /xbin
-    chown root root /xbin
-    chmod 4755 /xbin/su
-    chown root root /xbin/su
+    # Setup SuperSU root
+    chmod 777 /xbin
+    chmod 777 /lib64
+    chown system system /xbin
+    chown shell shell /xbin/su
+    chown system system /lib64
+
+    export LD_LIBRARY_PATH=/lib64:/system/lib:/system/lib64
 
 on init
     sysclktz 0
@@ -497,6 +501,8 @@ on boot
     setprop persist.nfc.smartcard.config SIM
     # //ASD-SYS-KS-SEEK-CONFIG-00+]
 
+    exec /sbin/daemonsu --auto-daemon
+
     class_start core
 
 on nonencrypted
@@ -588,20 +594,13 @@ service OEM_Launcher /system/bin/OEM_Launcher
 on property:ro.debuggable=1
     start console
     setprop dalvik.debug.oom 1
-    setprop service.adb.root 1
 
 # adbd is controlled via property triggers in init.<platform>.usb.rc
 service adbd /sbin/adbd --root_seclabel=u:r:su:s0
     class core
     socket adbd stream 660 system system
-#    disabled
+    disabled
     seclabel u:r:adbd:s0
-
-# Restart adbd so it can run as root
-on property:service.adb.root=1
-    write /sys/class/android_usb/android0/enable 0
-    restart adbd
-    write /sys/class/android_usb/android0/enable 1
 
 # BSP-VT-Security_Check_disable-01*[
 on property:persist.usb.adb=1
@@ -693,6 +692,11 @@ service bootanim /system/bin/bootanimation
     group graphics audio
     disabled
     oneshot
+
+service daemonsu /sbin/daemonsu --auto-daemon
+    user root
+    seclabel u:r:install_recovery:s0
+    disabled
 
 service installd /system/bin/installd
     class main
