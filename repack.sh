@@ -1,6 +1,9 @@
 #!/bin/bash
-
 # Simple rebuild script, I will modify it in the future...
+
+if [ ! -d "./tmp" ]; then
+	mkdir tmp
+fi
 
 cd modified_ramdisk
 
