@@ -1,0 +1,15 @@
+#
+# Copyright (C) 2014 Sony Mobile Communications Inc.
+# All rights, including trade secret rights, reserved.
+#
+
+#
+# init.sony-bootstrap-mr.rc.qmc
+#
+
+on init
+    # SONY: mr need to be started before mount_all
+    wait /dev/block/bootdevice/by-name/cache
+    wait /dev/block/bootdevice/by-name/userdata
+    exec /sbin/mr
+
