@@ -5,6 +5,10 @@ if [ ! -d "./tmp" ]; then
 	mkdir tmp
 fi
 
+if [ ! -d "./out" ]; then
+	mkdir out
+fi
+
 cd modified_ramdisk
 
 find . | cpio --create --format='newc' > ../tmp/E2303_26.1.A.2.99.ramdisk.cpio
