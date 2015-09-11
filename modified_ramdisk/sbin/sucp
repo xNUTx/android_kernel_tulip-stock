@@ -1,0 +1,8 @@
+#/sbin/busybox sh
+#Taken from SuperSU's updater-binary
+
+rm $5
+if [ -f "$4" ]; then
+	/sbin/busybox cat $4 > $5
+	/sbin/suset $1 $2 $3 $5 $6
+fi

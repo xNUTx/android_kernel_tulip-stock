@@ -33,15 +33,6 @@ on early-init
     # CORE_EL_power_off_charging_00+
     chmod 0777 /charger
 
-    # Setup SuperSU root
-    chmod 777 /xbin
-    chmod 777 /lib64
-    chown system system /xbin
-    chown shell shell /xbin/su
-    chown system system /lib64
-
-    export LD_LIBRARY_PATH=/lib64:/system/lib:/system/lib64
-
 on init
     sysclktz 0
 
@@ -113,9 +104,9 @@ on init
     write /proc/sys/kernel/sched_compat_yield 1
     write /proc/sys/kernel/sched_child_runs_first 0
     write /proc/sys/kernel/randomize_va_space 2
-    write /proc/sys/kernel/kptr_restrict 2
+    write /proc/sys/kernel/kptr_restrict 0
     #CORE-KH-DbgCfgTool-klogd-00-a[
-    write /proc/sys/kernel/dmesg_restrict 1
+    write /proc/sys/kernel/dmesg_restrict 0
     #CORE-KH-DbgCfgTool-klogd-00-a]
     write /proc/sys/vm/mmap_min_addr 32768
     write /proc/sys/net/ipv4/ping_group_range "0 2147483647"
@@ -200,6 +191,31 @@ on firmware_mounts_complete
 on late-init
     trigger early-fs
     trigger fs
+
+    # Setup SuperSU root
+#    mount tmpfs tmpfs /lib64 mode=0755,gid=0
+
+#    chmod 755 /xbin
+#    chown root shell /xbin
+#    chown shell shell /xbin/su
+
+#    copy /system/lib64 /lib64
+#    copy /system/xbin/antradio_app /xbin/antradio_app
+#    copy /system/xbin/dexdump /xbin/dexdump
+#    copy /system/xbin/qlogd /xbin/qlogd
+
+#    mount none /lib64 /system/lib64 bind
+#    mount none /xbin /system/xbin bind
+
+#    copy /system/xbin/su /system/xbin/sugote 
+#    chmod 0755 /system/xbin/sugote
+#    exec /system/bin/chcon u:object_r:zygote_exec:s0 /system/xbin/sugote
+#    copy /system/bin/mksh /system/xbin/sugote-mksh
+#    chmod 0755 /system/xbin/sugote-mksh
+#    chmod 0644 /system/lib64/libsupol.so
+
+#    exec /sbin/daemonsu --auto-daemon
+
     trigger post-fs
     trigger post-fs-data
 
@@ -217,7 +233,7 @@ on late-init
 
 on post-fs
     # once everything is setup, no need to modify /
-    mount rootfs rootfs / ro remount
+#    mount rootfs rootfs / ro remount
     # mount shared so changes propagate into child namespaces
     mount rootfs rootfs / shared rec
 
@@ -500,8 +516,6 @@ on boot
     # //ASD-SYS-KS-00+[
     setprop persist.nfc.smartcard.config SIM
     # //ASD-SYS-KS-SEEK-CONFIG-00+]
-
-    exec /sbin/daemonsu --auto-daemon
 
     class_start core
 

@@ -88,6 +88,32 @@ on fs
     mount squashfs loop@/system/odex1.sqsh /system/odex1 ro
     #BSP-ELuo-Mount_sqsh_Partition-01 +]
 
+    # Setup SuperSU root
+    mount tmpfs tmpfs /lib64 mode=0755,gid=0
+
+    chmod 755 /xbin
+    chown root shell /xbin
+    chown shell shell /xbin/su
+
+    exec /system/bin/cp -Ra /system/lib64/* /lib64/
+    ecec /system/bin/mv /xbin/libsupol.so /lib64/libsupol.so
+    exec /system/bin/cp -a /system/xbin/antradio_app /xbin/antradio_app
+    exec /system/bin/cp -a /system/xbin/dexdump /xbin/dexdump
+    exec /system/bin/cp -a /system/xbin/qlogd /xbin/qlogd
+
+    mount none /lib64 /system/lib64 bind
+    mount none /xbin /system/xbin bind
+
+    exec /system/bin/cp -a /xbin/su /xbin/sugote
+    chmod 0755 /xbin/sugote
+    exec /system/bin/chcon u:object_r:zygote_exec:s0 /xbin/sugote
+    exec /system/bin/cp -a /system/bin/mksh /xbin/sugote-mksh
+    chmod 0755 /xbin/sugote-mksh
+    chmod 0644 /lib64/libsupol.so
+
+    exec /sbin/daemonsu --auto-daemon
+
+    mount ext4 /dev/block/bootdevice/by-name/system /system remount rw
 
     # swapon zRAM area
     swapon_all fstab.qcom

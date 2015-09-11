@@ -1,0 +1,8 @@
+#/sbin/busybox sh
+# Taken from SuperSU's updater-binary
+
+/sbin/busybox chown $1.$2 $4
+/sbin/busybox chown $1:$2 $4
+/sbin/busybox chmod $3 $4
+/system/bin/toolbox chcon u:object_r:system_file:s0 $4
+/system/bin/toolbox chcon $4 $5

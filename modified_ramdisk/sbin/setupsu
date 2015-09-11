@@ -1,0 +1,14 @@
+#/sbin/busybox sh
+# Taken from SuperSU's updater-binary
+
+/sbin/busybox cp -ar /system/lib64/* /lib64/ >> /lib64/log 2>> /lib64/log
+/sbin/busybox mv /xbin/libsepol.so /lib64/ >> /lib64/log 2>> /lib64/log
+/sbin/busybox cp -ar /system/xbin/* /xbin/ >> /lib64/log 2>> /lib64/log
+
+/sbin/busybox mount -o bind /lib64 /system/lib64 >> /lib64/log 2>> /lib64/log
+/sbin/busybox mount -o bind /xbin /system/xbin >> /lib64/log 2>> /lib64/log
+
+/sbin/sucp 0 0 0755 /system/xbin/su /system/xbin/sugote u:object_r:zygote_exec:s0 >> /lib64/log 2>> /lib64/log
+/sbin/sucp 0 0 0755 /system/bin/mksh /system/xbin/sugote-mksh >> /lib64/log 2>> /lib64/log
+/sbin/sucp 0 0 0755 $BIN/supolicy /system/xbin/supolicy >> /lib64/log 2>> /lib64/log
+/sbin/busybox chmod 0644 /system/lib64/libsupol.so >> /lib64/log 2>> /lib64/log

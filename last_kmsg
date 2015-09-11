@@ -1,0 +1,1503 @@
+0, main=3450, en=1
+[ 3963.764149] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 3968.814676] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 3968.893257] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=40, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 3968.893292] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3460, en=1
+[ 3973.865471] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 3978.915956] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 3978.931101] SMB:brain_work: Cap=100, 99, VBAT=4301, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 3978.931138] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3470, en=1
+[ 3983.966596] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 3988.973982] SMB:brain_work: Cap=100, 99, VBAT=4301, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 3988.974016] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3480, en=1
+[ 3989.015442] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 3993.064510] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 3998.117681] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 3999.014088] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 3999.014125] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3490, en=1
+[ 4003.167280] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4003.881722] [PM]--- dump_wakelocks ---
+[ 4003.881846] [PM]active wake lock msm_otg, active_time=4003412 ms
+[ 4008.222585] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4009.054699] SMB:brain_work: Cap=100, 99, VBAT=4297, IBAT=54, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4009.054735] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3500, en=1
+[ 4013.271906] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4017.659885] mmc0: Starting deferred resume
+[ 4017.740466] mmc0: Deferred resume completed
+[ 4018.316700] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4019.094430] SMB:brain_work: Cap=100, 99, VBAT=4301, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4019.094467] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3510, en=1
+[ 4023.365744] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4028.415128] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4029.134374] SMB:brain_work: Cap=100, 99, VBAT=4301, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4029.134410] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3520, en=1
+[ 4033.466546] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4038.515654] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4039.171664] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=47, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4039.171700] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3530, en=1
+[ 4043.565918] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4048.615961] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4049.001740] [PM]--- dump_wakelocks ---
+[ 4049.001862] [PM]active wake lock msm_otg, active_time=4048532 ms
+[ 4049.214634] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4049.214671] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3540, en=1
+[ 4053.666098] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4058.715279] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4059.250951] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4059.250984] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3550, en=1
+[ 4063.766522] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4068.815563] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4069.293788] SMB:brain_work: Cap=100, 99, VBAT=4301, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4069.293824] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3560, en=1
+[ 4073.866128] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4078.917047] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4079.357606] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4079.357624] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3570, en=1
+[ 4083.967269] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4089.016198] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4089.372010] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4089.372046] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3580, en=1
+[ 4093.062845] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4094.121567] [PM]--- dump_wakelocks ---
+[ 4094.121685] [PM]active wake lock msm_otg, active_time=4093652 ms
+[ 4098.104499] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4099.412768] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4099.412804] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3590, en=1
+[ 4103.160003] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4108.212003] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4109.452390] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4109.452426] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3600, en=1
+[ 4112.672309] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4112.693313] QSEECOM: qseecom_load_app: App with id 44 (tzlibasb) now loaded
+[ 4112.704053] QSEECOM: qseecom_unload_app: App id 44 now unloaded
+[ 4112.749608] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4112.765894] QSEECOM: qseecom_load_app: App with id 45 (tzlibasb) now loaded
+[ 4112.778544] QSEECOM: qseecom_unload_app: App id 45 now unloaded
+[ 4113.717517] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4114.792938] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4114.808781] QSEECOM: qseecom_load_app: App with id 46 (tzlibasb) now loaded
+[ 4114.821848] QSEECOM: qseecom_unload_app: App id 46 now unloaded
+[ 4118.765871] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4118.834622] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4118.850621] QSEECOM: qseecom_load_app: App with id 47 (tzlibasb) now loaded
+[ 4118.861580] QSEECOM: qseecom_unload_app: App id 47 now unloaded
+[ 4119.493124] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4119.493157] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3610, en=1
+[ 4123.817800] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4126.876858] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4126.895265] QSEECOM: qseecom_load_app: App with id 48 (tzlibasb) now loaded
+[ 4126.908854] QSEECOM: qseecom_unload_app: App id 48 now unloaded
+[ 4128.865609] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4129.535455] SMB:brain_work: Cap=100, 99, VBAT=4294, IBAT=71, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4129.535490] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3620, en=1
+[ 4133.918085] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4138.967002] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4139.241800] [PM]--- dump_wakelocks ---
+[ 4139.241922] [PM]active wake lock msm_otg, active_time=4138772 ms
+[ 4139.574628] SMB:brain_work: Cap=100, 99, VBAT=4296, IBAT=57, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4139.574665] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3630, en=1
+[ 4142.923180] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4142.943477] QSEECOM: qseecom_load_app: App with id 49 (tzlibasb) now loaded
+[ 4142.953184] QSEECOM: qseecom_unload_app: App id 49 now unloaded
+[ 4144.016095] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4148.065050] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4149.612851] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=40, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4149.612887] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3640, en=1
+[ 4153.116060] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4158.164000] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4159.652518] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4159.652553] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3650, en=1
+[ 4163.215052] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4163.248744] [LastAlog] alog_ram_console_sync_time [ 4163.248721]  for log_type:0 - After
+[ 4168.265727] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4169.693228] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4169.693264] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3660, en=1
+[ 4173.315848] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4174.967230] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4174.991148] QSEECOM: qseecom_load_app: App with id 50 (tzlibasb) now loaded
+[ 4175.004541] QSEECOM: qseecom_unload_app: App id 50 now unloaded
+[ 4178.365901] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4179.733713] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4179.733749] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3670, en=1
+[ 4183.416986] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4184.362146] [PM]--- dump_wakelocks ---
+[ 4184.362268] [PM]active wake lock msm_otg, active_time=4183892 ms
+[ 4188.472216] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4189.772516] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4189.772553] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3680, en=1
+[ 4193.520195] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4198.567851] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4199.813227] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4199.813263] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3690, en=1
+[ 4203.617113] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4208.665880] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4209.854307] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4209.854343] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3700, en=1
+[ 4213.716748] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4218.765654] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4219.893598] SMB:brain_work: Cap=100, 99, VBAT=4300, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4219.893632] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3710, en=1
+[ 4223.824895] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4228.870206] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4229.481754] [PM]--- dump_wakelocks ---
+[ 4229.481876] [PM]active wake lock msm_otg, active_time=4229012 ms
+[ 4229.934243] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4229.934279] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3720, en=1
+[ 4233.918209] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4238.967285] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4239.000694] [LastAlog] alog_ram_console_sync_time [ 4239.000673]  for log_type:1 - After
+[ 4239.017443] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4239.033823] QSEECOM: qseecom_load_app: App with id 51 (tzlibasb) now loaded
+[ 4239.046607] QSEECOM: qseecom_unload_app: App id 51 now unloaded
+[ 4239.970729] SMB:brain_work: Cap=100, 99, VBAT=4292, IBAT=81, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4239.970766] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3730, en=1
+[ 4244.017240] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4248.064350] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4250.013331] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4250.013367] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3740, en=1
+[ 4251.097088] mmc0: Starting deferred resume
+[ 4251.179965] mmc0: Deferred resume completed
+[ 4253.115806] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4258.173385] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4260.054238] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4260.054274] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3750, en=1
+[ 4263.218743] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4268.273262] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4270.090763] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4270.090799] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3760, en=1
+[ 4273.316826] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4274.601772] [PM]--- dump_wakelocks ---
+[ 4274.601894] [PM]active wake lock msm_otg, active_time=4274132 ms
+[ 4278.364888] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4280.130986] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4280.131022] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3770, en=1
+[ 4283.414916] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4288.465041] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4290.173159] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4290.173193] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3780, en=1
+[ 4293.515397] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4298.565794] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4300.213750] SMB:brain_work: Cap=100, 99, VBAT=4295, IBAT=57, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4300.213786] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3790, en=1
+[ 4303.615626] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4308.665705] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4310.254679] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4310.254716] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3800, en=1
+[ 4311.249936] mmc0: Starting deferred resume
+[ 4311.335515] mmc0: Deferred resume completed
+[ 4313.715483] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4318.765903] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4319.721730] [PM]--- dump_wakelocks ---
+[ 4319.721852] [PM]active wake lock msm_otg, active_time=4319252 ms
+[ 4320.294293] SMB:brain_work: Cap=100, 99, VBAT=4295, IBAT=55, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4320.294330] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3810, en=1
+[ 4323.815712] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4328.863869] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4330.330985] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4330.331021] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3820, en=1
+[ 4333.914703] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4338.964035] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4340.372584] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4340.372620] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3830, en=1
+[ 4341.020809] mmc0: Starting deferred resume
+[ 4341.100266] mmc0: Deferred resume completed
+[ 4344.014124] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4348.063617] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4350.414180] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4350.414216] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3840, en=1
+[ 4353.112905] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4358.164809] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4360.454468] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4360.454504] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3850, en=1
+[ 4363.212023] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4364.841731] [PM]--- dump_wakelocks ---
+[ 4364.841853] [PM]active wake lock msm_otg, active_time=4364372 ms
+[ 4367.061138] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4367.087213] QSEECOM: qseecom_load_app: App with id 52 (tzlibasb) now loaded
+[ 4367.100690] QSEECOM: qseecom_unload_app: App id 52 now unloaded
+[ 4368.253010] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4370.493775] SMB:brain_work: Cap=100, 99, VBAT=4295, IBAT=56, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4370.493811] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3860, en=1
+[ 4371.560983] mmc0: Starting deferred resume
+[ 4371.647672] mmc0: Deferred resume completed
+[ 4373.308767] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4378.369929] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4380.533938] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4380.533974] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3870, en=1
+[ 4383.420522] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4388.468314] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4390.574680] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4390.574717] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3880, en=1
+[ 4393.516453] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4398.565366] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4400.610963] SMB:brain_work: Cap=100, 99, VBAT=4299, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4400.610999] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3890, en=1
+[ 4403.616550] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4408.665726] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4409.959899] [PM]--- dump_wakelocks ---
+[ 4409.960020] [PM]active wake lock msm_otg, active_time=4409490 ms
+[ 4410.652113] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4410.652149] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3900, en=1
+[ 4413.715856] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4418.765988] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4420.693801] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4420.693837] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3910, en=1
+[ 4423.815959] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4428.865139] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4430.734547] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4430.734583] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3920, en=1
+[ 4431.764887] mmc0: Starting deferred resume
+[ 4431.848506] mmc0: Deferred resume completed
+[ 4433.916465] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4438.965554] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4440.774644] SMB:brain_work: Cap=100, 99, VBAT=4296, IBAT=50, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4440.774681] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3930, en=1
+[ 4444.016942] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4448.065037] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4450.813959] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4450.813995] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3940, en=1
+[ 4453.115725] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4455.081822] [PM]--- dump_wakelocks ---
+[ 4455.081944] [PM]active wake lock msm_otg, active_time=4454612 ms
+[ 4458.168500] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4460.854929] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4460.854965] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3950, en=1
+[ 4463.216415] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4468.272372] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4470.893663] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4470.893698] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3960, en=1
+[ 4473.318691] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4478.371074] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4480.934773] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4480.934809] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3970, en=1
+[ 4483.414851] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4488.456270] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4490.973586] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4490.973622] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3980, en=1
+[ 4492.001788] mmc0: Starting deferred resume
+[ 4492.085780] mmc0: Deferred resume completed
+[ 4493.509483] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4498.561142] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4500.201591] [PM]--- dump_wakelocks ---
+[ 4500.201707] [PM]active wake lock msm_otg, active_time=4499732 ms
+[ 4501.014776] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4501.014813] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=3990, en=1
+[ 4503.612188] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4508.662759] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4511.053607] SMB:brain_work: Cap=100, 99, VBAT=4297, IBAT=39, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4511.053644] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4000, en=1
+[ 4513.714095] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4518.763764] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4521.094453] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4521.094489] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4010, en=1
+[ 4523.813930] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4528.864528] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4531.131002] SMB:brain_work: Cap=100, 99, VBAT=4298, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4531.131039] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4020, en=1
+[ 4533.915301] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4537.344528] mmc0: Starting deferred resume
+[ 4537.414243] mmc0: Deferred resume completed
+[ 4538.964396] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4541.163263] SMB:brain_work: Cap=100, 99, VBAT=4249, IBAT=347, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4541.163277] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4030, en=1
+[ 4544.003373] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4545.319556] [PM]--- dump_wakelocks ---
+[ 4545.319589] [PM]active wake lock PowerManagerService.WakeLocks, active_time=8107 ms
+[ 4545.319633] [PM]active wake lock msm_otg, active_time=4544850 ms
+[ 4545.319662] [PMSWL]active PMS wake lock: 897 *job*/android/com.android.server.pm.BackgroundDexOptService 7.902192966 secs
+[ 4545.319673] [PMSWL]active PMS wake lock: 897 *alarm* 8.107806299 secs
+[ 4549.029972] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4551.182147] SMB:brain_work: Cap=100, 99, VBAT=4239, IBAT=380, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4551.182175] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4040, en=1
+[ 4553.063658] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4557.734688] SMB:chg_term_handler: rt_stat = 0x00
+[ 4557.734705] SMB:chg_recharge_handler: rt_stat = 0x00
+[ 4557.740378] healthd: battery l=100 v=4116 t=26.0 h=2 st=5 c=1214 chg=u
+[ 4557.806422] QSEECOM: qseecom_load_app: App (tzwidevine) does'nt exist, loading apps for first time
+[ 4557.819144] QSEECOM: qseecom_load_app: App with id 53 (tzwidevine) now loaded
+[ 4557.845963] QSEECOM: qseecom_unload_app: App id 53 now unloaded
+[ 4558.102817] QSEECOM: qseecom_load_app: App (tzwidevine) does'nt exist, loading apps for first time
+[ 4558.120179] QSEECOM: qseecom_load_app: App with id 54 (tzwidevine) now loaded
+[ 4558.138646] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4558.153002] QSEECOM: qseecom_unload_app: App id 54 now unloaded
+[ 4561.202925] SMB:brain_work: Cap=100, 99, VBAT=4276, IBAT=125, T=260, USB=1, Type=1 BMD=1, Full=0,1 Delta=0
+[ 4561.202950] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4050, en=1
+[ 4563.149634] wlan: [1143:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[ 4563.191935] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4568.222316] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4571.222838] SMB:brain_work: Cap=100, 99, VBAT=4301, IBAT=-25, T=260, USB=1, Type=1 BMD=1, Full=0,1 Delta=0
+[ 4571.222876] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4060, en=1
+[ 4573.253747] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4578.282672] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4581.243394] SMB:brain_work: Cap=100, 98, VBAT=4301, IBAT=-18, T=260, USB=1, Type=1 BMD=1, Full=0,1 Delta=0
+[ 4581.243429] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4070, en=1
+[ 4583.312922] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4588.342832] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4590.439553] [PM]--- dump_wakelocks ---
+[ 4590.439588] [PM]active wake lock PowerManagerService.WakeLocks, active_time=53227 ms
+[ 4590.439633] [PM]active wake lock msm_otg, active_time=4589970 ms
+[ 4590.439664] [PMSWL]active PMS wake lock: 897 *sync*/com.sonyericsson.updatecenter.provider/com.sonyericsson.updatecenter.account.default/user@updatecenter 32.956167331 secs
+[ 4590.439674] [PMSWL]active PMS wake lock: 897 *job*/android/com.android.server.pm.BackgroundDexOptService 53.22205657 secs
+[ 4591.248549] mmc0: Starting deferred resume
+[ 4591.262647] SMB:brain_work: Cap=100, 98, VBAT=4301, IBAT=-13, T=260, USB=1, Type=1 BMD=1, Full=0,1 Delta=0
+[ 4591.262682] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4080, en=1
+[ 4591.311896] mmc0: Deferred resume completed
+[ 4593.379995] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4595.337831] SMB:chg_term_handler: rt_stat = 0x01
+[ 4595.348717] healthd: battery l=100 v=4301 t=26.0 h=2 st=5 c=-9 chg=u
+[ 4598.438618] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4600.246382] SMB:chg_term_handler: rt_stat = 0x00
+[ 4600.246407] SMB:chg_recharge_handler: rt_stat = 0x00
+[ 4600.253720] healthd: battery l=100 v=4197 t=27.0 h=2 st=5 c=652 chg=u
+[ 4601.283692] SMB:brain_work: Cap=100, 98, VBAT=4218, IBAT=506, T=270, USB=1, Type=1 BMD=1, Full=0,1 Delta=0
+[ 4601.283716] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4090, en=1
+[ 4603.473603] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4608.502514] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4611.301918] SMB:brain_work: Cap=100, 98, VBAT=4274, IBAT=140, T=270, USB=1, Type=1 BMD=1, Full=0,1 Delta=0
+[ 4611.301941] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4100, en=1
+[ 4612.283737] mmc0: Starting deferred resume
+[ 4612.348902] mmc0: Deferred resume completed
+[ 4612.362651] [LastAlog] alog_ram_console_sync_time [ 4612.362634]  for log_type:0 - After
+[ 4613.532235] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4618.566341] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4621.322715] SMB:brain_work: Cap=100, 98, VBAT=4259, IBAT=222, T=270, USB=1, Type=1 BMD=1, Full=0,1 Delta=0
+[ 4621.322732] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4110, en=1
+[ 4623.107819] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 4623.120632] QSEECOM: qseecom_load_app: App with id 55 (tzlibasb) now loaded
+[ 4623.128446] QSEECOM: qseecom_unload_app: App id 55 now unloaded
+[ 4623.591066] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4628.090719] SMB:chg_term_handler: rt_stat = 0x01
+[ 4628.107037] healthd: battery l=100 v=4264 t=27.0 h=2 st=5 c=196 chg=u
+[ 4628.632094] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4631.348055] SMB:brain_work: Cap=100, 98, VBAT=4228, IBAT=422, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4631.348072] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4120, en=1
+[ 4633.661618] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4634.179060] [LastAlog] alog_ram_console_sync_time [ 4634.179046]  for log_type:3 - After
+[ 4635.561723] [PM]--- dump_wakelocks ---
+[ 4635.561783] [PM]active wake lock PowerManagerService.WakeLocks, active_time=1386 ms
+[ 4635.561876] [PM]active wake lock msm_otg, active_time=4635092 ms
+[ 4635.561942] [PMSWL]active PMS wake lock: 2162 GCM_CONN_ALARM 1.378563958 secs
+[ 4638.724583] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4641.369009] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=41, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4641.369045] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4130, en=1
+[ 4643.769176] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4648.816503] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4651.398299] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=31, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4651.398332] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4140, en=1
+[ 4653.865909] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4658.915431] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4661.412314] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4661.412349] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4150, en=1
+[ 4663.965416] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4669.015356] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4671.454653] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=34, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4671.454688] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4160, en=1
+[ 4673.071623] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4678.118325] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4680.681724] [PM]--- dump_wakelocks ---
+[ 4680.681846] [PM]active wake lock msm_otg, active_time=4680212 ms
+[ 4681.496096] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=34, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4681.496131] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4170, en=1
+[ 4683.166558] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4688.215266] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4691.531958] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4691.531995] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4180, en=1
+[ 4693.265275] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4698.313948] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4701.574722] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4701.574759] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4190, en=1
+[ 4703.362476] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4708.413369] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4711.614001] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=32, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4711.614035] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4200, en=1
+[ 4713.457537] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4718.509891] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4721.654556] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4721.654593] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4210, en=1
+[ 4723.561463] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4725.801741] [PM]--- dump_wakelocks ---
+[ 4725.801862] [PM]active wake lock msm_otg, active_time=4725332 ms
+[ 4728.613035] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4731.695015] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4731.695051] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4220, en=1
+[ 4733.663617] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4738.713675] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4741.735334] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=56, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4741.735371] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4230, en=1
+[ 4743.764659] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4748.813970] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4751.774695] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=33, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4751.774732] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4240, en=1
+[ 4753.864091] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4758.914394] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4761.814946] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4761.814983] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4250, en=1
+[ 4763.964316] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4769.015034] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4770.921742] [PM]--- dump_wakelocks ---
+[ 4770.921862] [PM]active wake lock msm_otg, active_time=4770452 ms
+[ 4771.854899] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=42, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4771.854936] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4260, en=1
+[ 4773.061584] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4778.102168] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4781.894282] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=34, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4781.894318] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4270, en=1
+[ 4783.157376] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4788.211014] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4791.934717] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=33, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4791.934753] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4280, en=1
+[ 4793.263074] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4798.313986] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4801.973915] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4801.973950] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4290, en=1
+[ 4803.363982] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4808.415127] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4812.014340] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=28, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4812.014376] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4300, en=1
+[ 4813.465285] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4816.041797] [PM]--- dump_wakelocks ---
+[ 4816.041918] [PM]active wake lock msm_otg, active_time=4815572 ms
+[ 4818.515762] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4822.053803] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4822.053839] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4310, en=1
+[ 4823.565551] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4828.615142] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4832.094613] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=30, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4832.094650] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4320, en=1
+[ 4833.665686] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4838.713910] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4842.134605] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=45, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4842.134641] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4330, en=1
+[ 4843.765493] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4848.815133] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4851.301905] mmc0: Starting deferred resume
+[ 4851.381022] mmc0: Deferred resume completed
+[ 4852.174008] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4852.174044] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4340, en=1
+[ 4853.864447] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4858.914415] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4861.161716] [PM]--- dump_wakelocks ---
+[ 4861.161838] [PM]active wake lock msm_otg, active_time=4860692 ms
+[ 4862.214037] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4862.214072] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4350, en=1
+[ 4863.963983] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4869.013957] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4872.252893] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=32, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4872.252929] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4360, en=1
+[ 4873.062121] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4878.102717] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4882.294022] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=33, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4882.294055] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4370, en=1
+[ 4883.158403] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4888.211962] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4892.333838] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=28, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4892.333874] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4380, en=1
+[ 4893.264042] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4898.314400] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4902.374423] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=30, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4902.374459] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4390, en=1
+[ 4903.365758] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4906.281803] [PM]--- dump_wakelocks ---
+[ 4906.281925] [PM]active wake lock msm_otg, active_time=4905812 ms
+[ 4908.413667] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4911.250064] mmc0: Starting deferred resume
+[ 4911.327843] mmc0: Deferred resume completed
+[ 4912.412926] SMB:brain_work: Cap=100, 98, VBAT=4274, IBAT=157, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4912.412961] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4400, en=1
+[ 4913.466389] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4918.515498] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4922.488566] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=42, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4922.488593] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4410, en=1
+[ 4923.566550] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4928.615620] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4932.515275] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=35, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4932.515312] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4420, en=1
+[ 4933.665594] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4938.715531] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4941.015500] mmc0: Starting deferred resume
+[ 4941.095510] mmc0: Deferred resume completed
+[ 4942.534473] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=49, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4942.534509] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4430, en=1
+[ 4943.765781] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4948.814991] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4951.399720] [PM]--- dump_wakelocks ---
+[ 4951.399795] [PM]active wake lock msm_otg, active_time=4950930 ms
+[ 4952.573675] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=30, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4952.573711] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4440, en=1
+[ 4953.866435] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4958.915497] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4962.614677] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=30, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4962.614713] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4450, en=1
+[ 4963.965349] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4969.017185] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4971.576727] mmc0: Starting deferred resume
+[ 4971.659397] mmc0: Deferred resume completed
+[ 4972.654538] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4972.654574] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4460, en=1
+[ 4973.064280] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4978.115063] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4982.694127] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=31, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4982.694162] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4470, en=1
+[ 4983.165806] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4988.216149] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4992.734503] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=41, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 4992.734540] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4480, en=1
+[ 4993.265404] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 4996.519982] [PM]--- dump_wakelocks ---
+[ 4996.520058] [PM]active wake lock msm_otg, active_time=4996050 ms
+[ 4998.320369] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5002.773699] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5002.773735] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4490, en=1
+[ 5003.368133] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5008.420330] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5012.814493] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=91, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5012.814529] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4500, en=1
+[ 5013.466096] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5018.509388] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5022.854578] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=33, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5022.854614] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4510, en=1
+[ 5023.562712] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5028.613541] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5031.789063] mmc0: Starting deferred resume
+[ 5031.873680] mmc0: Deferred resume completed
+[ 5032.894484] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=34, T=270, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5032.894521] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4520, en=1
+[ 5033.663768] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5038.714345] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5041.641761] [PM]--- dump_wakelocks ---
+[ 5041.641883] [PM]active wake lock msm_otg, active_time=5041172 ms
+[ 5042.933667] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5042.933704] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4530, en=1
+[ 5043.765631] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5048.815798] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5052.974571] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5052.974605] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4540, en=1
+[ 5053.865973] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5058.915937] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5063.022734] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5063.022770] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4550, en=1
+[ 5063.966267] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5069.015282] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5073.052573] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5073.052609] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4560, en=1
+[ 5073.063953] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5078.114404] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5083.093348] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5083.093383] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4570, en=1
+[ 5083.162472] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5086.761724] [PM]--- dump_wakelocks ---
+[ 5086.761845] [PM]active wake lock msm_otg, active_time=5086292 ms
+[ 5088.205100] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5091.985207] mmc0: Starting deferred resume
+[ 5092.069458] mmc0: Deferred resume completed
+[ 5093.129257] SMB:brain_work: Cap=100, 98, VBAT=4278, IBAT=134, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5093.129293] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4580, en=1
+[ 5093.258175] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5098.313268] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5103.152378] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5103.152414] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4590, en=1
+[ 5103.365378] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5108.415966] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5113.172162] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5113.172197] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4600, en=1
+[ 5113.464584] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5118.516043] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5123.229268] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5123.229305] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4610, en=1
+[ 5123.565987] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5128.615181] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5131.881697] [PM]--- dump_wakelocks ---
+[ 5131.881819] [PM]active wake lock msm_otg, active_time=5131412 ms
+[ 5133.251967] SMB:brain_work: Cap=100, 98, VBAT=4293, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5133.252002] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4620, en=1
+[ 5133.666354] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5135.145089] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 5135.173280] QSEECOM: qseecom_load_app: App with id 56 (tzlibasb) now loaded
+[ 5135.187448] QSEECOM: qseecom_unload_app: App id 56 now unloaded
+[ 5138.715535] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5143.298340] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=50, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5143.298377] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4630, en=1
+[ 5143.765799] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5148.815728] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5151.403005] mmc0: Starting deferred resume
+[ 5151.482925] mmc0: Deferred resume completed
+[ 5153.330278] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=35, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5153.330314] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4640, en=1
+[ 5153.865750] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5158.914834] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5163.372127] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=47, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5163.372163] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4650, en=1
+[ 5163.965639] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5169.015460] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5173.060951] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5173.411513] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=74, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5173.411549] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4660, en=1
+[ 5177.001775] [PM]--- dump_wakelocks ---
+[ 5177.001896] [PM]active wake lock msm_otg, active_time=5176532 ms
+[ 5178.103063] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5183.157066] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5183.452674] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5183.452710] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4670, en=1
+[ 5188.209157] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5191.413296] mmc0: Starting deferred resume
+[ 5191.501055] mmc0: Deferred resume completed
+[ 5193.262036] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5193.490676] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=57, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5193.490712] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4680, en=1
+[ 5198.312252] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5203.362804] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5203.530883] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5203.530920] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4690, en=1
+[ 5208.413561] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5212.316350] mmc0: Starting deferred resume
+[ 5212.402848] mmc0: Deferred resume completed
+[ 5213.463899] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5213.571753] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=43, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5213.571788] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4700, en=1
+[ 5218.514542] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5222.121684] [PM]--- dump_wakelocks ---
+[ 5222.121805] [PM]active wake lock msm_otg, active_time=5221652 ms
+[ 5223.564331] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5223.609846] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5223.609879] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4710, en=1
+[ 5228.614388] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5233.651773] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5233.651809] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4720, en=1
+[ 5233.663061] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5238.714052] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5243.692630] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5243.692666] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4730, en=1
+[ 5243.764632] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5248.814738] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5253.732500] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5253.732536] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4740, en=1
+[ 5253.867360] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5258.915947] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5263.772538] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5263.772574] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4750, en=1
+[ 5263.967447] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5267.241727] [PM]--- dump_wakelocks ---
+[ 5267.241848] [PM]active wake lock msm_otg, active_time=5266772 ms
+[ 5269.015947] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5273.071545] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5273.812531] SMB:brain_work: Cap=100, 98, VBAT=4281, IBAT=110, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5273.812567] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4760, en=1
+[ 5278.138102] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5283.198654] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5283.852485] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5283.852521] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4770, en=1
+[ 5288.255664] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5293.311297] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5293.892518] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5293.892554] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4780, en=1
+[ 5298.362712] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5303.414506] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5303.932547] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5303.932583] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4790, en=1
+[ 5308.464980] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5312.361753] [PM]--- dump_wakelocks ---
+[ 5312.361873] [PM]active wake lock msm_otg, active_time=5311892 ms
+[ 5313.514084] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5313.972985] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5313.973019] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4800, en=1
+[ 5318.565255] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5323.615096] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5324.012305] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5324.012341] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4810, en=1
+[ 5328.665127] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5333.715257] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5334.051910] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5334.051947] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4820, en=1
+[ 5338.765875] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5343.815801] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5344.092705] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=53, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5344.092741] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4830, en=1
+[ 5348.865420] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5353.915231] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5354.130737] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=42, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5354.130771] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4840, en=1
+[ 5357.481315] [PM]--- dump_wakelocks ---
+[ 5357.481436] [PM]active wake lock msm_otg, active_time=5357011 ms
+[ 5358.965151] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5364.014321] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5364.171671] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5364.171707] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4850, en=1
+[ 5368.065127] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5373.115748] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5374.212492] SMB:brain_work: Cap=100, 98, VBAT=4292, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5374.212528] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4860, en=1
+[ 5378.165089] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5383.216359] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5384.252534] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=40, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5384.252571] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4870, en=1
+[ 5388.265484] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5393.316547] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5394.292541] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=35, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5394.292577] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4880, en=1
+[ 5398.366242] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5400.080475] mmc0: Starting deferred resume
+[ 5400.166405] mmc0: Deferred resume completed
+[ 5402.600093] [PM]--- dump_wakelocks ---
+[ 5402.600212] [PM]active wake lock msm_otg, active_time=5402130 ms
+[ 5403.415159] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5404.332523] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=56, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5404.332556] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4890, en=1
+[ 5408.465861] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5413.515124] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5414.372538] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5414.372575] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4900, en=1
+[ 5418.565149] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5423.615966] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5424.412173] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5424.412209] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4910, en=1
+[ 5428.665762] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5433.721197] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5434.452467] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5434.452502] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4920, en=1
+[ 5438.767778] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5441.187278] mmc0: Starting deferred resume
+[ 5441.270927] mmc0: Deferred resume completed
+[ 5443.816926] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5444.492527] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5444.492563] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4930, en=1
+[ 5447.721597] [PM]--- dump_wakelocks ---
+[ 5447.721712] [PM]active wake lock msm_otg, active_time=5447252 ms
+[ 5448.865617] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5453.915853] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5454.532542] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5454.532578] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4940, en=1
+[ 5458.966120] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5464.016890] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5464.572990] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5464.573026] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4950, en=1
+[ 5468.064972] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5473.114284] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5474.612267] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5474.612301] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4960, en=1
+[ 5478.164880] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5483.215436] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5484.652565] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5484.652601] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4970, en=1
+[ 5488.265918] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5492.839681] [PM]--- dump_wakelocks ---
+[ 5492.839742] [PM]active wake lock PowerManagerService.WakeLocks, active_time=15510 ms
+[ 5492.839835] [PM]active wake lock msm_otg, active_time=5492370 ms
+[ 5492.839901] [PMSWL]active PMS wake lock: 897 *alarm* 15.511592234 secs
+[ 5493.315658] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5494.692489] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5494.692525] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4980, en=1
+[ 5498.365865] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5503.415510] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5504.732713] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5504.732750] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=4990, en=1
+[ 5508.466077] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5511.249344] mmc0: Starting deferred resume
+[ 5511.334484] mmc0: Deferred resume completed
+[ 5513.515715] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5514.772515] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5514.772551] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5000, en=1
+[ 5518.564663] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5523.614151] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5524.812487] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5524.812523] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5010, en=1
+[ 5528.664251] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5533.714912] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5534.852541] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=41, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5534.852576] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5020, en=1
+[ 5537.961776] [PM]--- dump_wakelocks ---
+[ 5537.961897] [PM]active wake lock msm_otg, active_time=5537492 ms
+[ 5538.764515] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5541.015463] mmc0: Starting deferred resume
+[ 5541.096367] mmc0: Deferred resume completed
+[ 5543.814141] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5544.892532] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=40, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5544.892568] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5030, en=1
+[ 5548.864927] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5553.915615] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5554.932549] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=55, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5554.932583] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5040, en=1
+[ 5558.972210] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5564.012510] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5564.970709] SMB:brain_work: Cap=100, 98, VBAT=4291, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5564.970745] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5050, en=1
+[ 5568.063247] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5571.552646] mmc0: Starting deferred resume
+[ 5571.638013] mmc0: Deferred resume completed
+[ 5573.113819] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5575.012508] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=35, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5575.012544] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5060, en=1
+[ 5578.164106] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5583.081735] [PM]--- dump_wakelocks ---
+[ 5583.081856] [PM]active wake lock msm_otg, active_time=5582612 ms
+[ 5583.213732] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5585.050757] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5585.050793] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5070, en=1
+[ 5588.264732] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5593.314504] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5595.092502] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5595.092538] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5080, en=1
+[ 5598.364575] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5603.414969] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5605.132224] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=49, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5605.132260] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5090, en=1
+[ 5608.465704] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5613.516011] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5615.172104] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=37, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5615.172140] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5100, en=1
+[ 5618.565604] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5623.614852] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5625.212169] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5625.212203] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5110, en=1
+[ 5628.201578] [PM]--- dump_wakelocks ---
+[ 5628.201695] [PM]active wake lock msm_otg, active_time=5627732 ms
+[ 5628.664026] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5631.756141] mmc0: Starting deferred resume
+[ 5631.840978] mmc0: Deferred resume completed
+[ 5633.714630] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5635.252530] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5635.252566] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5120, en=1
+[ 5638.765071] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5643.815562] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5645.292612] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5645.292649] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5130, en=1
+[ 5648.865991] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5653.915630] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5655.332409] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5655.332445] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5140, en=1
+[ 5658.966032] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5664.015862] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5665.372732] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=36, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5665.372768] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5150, en=1
+[ 5668.064848] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5673.114653] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5673.319980] [PM]--- dump_wakelocks ---
+[ 5673.320097] [PM]active wake lock msm_otg, active_time=5672850 ms
+[ 5675.411667] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=52, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5675.411701] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5160, en=1
+[ 5678.164383] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5683.214827] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5685.452614] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=35, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5685.452650] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5170, en=1
+[ 5688.264740] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5691.966096] mmc0: Starting deferred resume
+[ 5692.050537] mmc0: Deferred resume completed
+[ 5693.313161] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5695.492556] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5695.492592] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5180, en=1
+[ 5698.363044] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5703.413288] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5705.532715] SMB:brain_work: Cap=100, 98, VBAT=4290, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5705.532751] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5190, en=1
+[ 5708.464572] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5713.514726] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5715.570070] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5715.570106] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5200, en=1
+[ 5718.441730] [PM]--- dump_wakelocks ---
+[ 5718.441850] [PM]active wake lock msm_otg, active_time=5717972 ms
+[ 5718.564522] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5723.614613] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5725.611981] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5725.612017] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5210, en=1
+[ 5728.664979] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5733.715009] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5735.652750] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=38, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5735.652786] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5220, en=1
+[ 5737.827740] mmc0: Starting deferred resume
+[ 5737.892257] mmc0: Deferred resume completed
+[ 5738.765083] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5743.815619] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5745.692533] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=52, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5745.692569] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5230, en=1
+[ 5748.865411] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5753.917932] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5755.732542] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=47, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5755.732576] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5240, en=1
+[ 5757.979856] [LastAlog] alog_ram_console_sync_time [ 5757.979828]  for log_type:0 - After
+[ 5758.965342] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5763.561728] [PM]--- dump_wakelocks ---
+[ 5763.561850] [PM]active wake lock msm_otg, active_time=5763092 ms
+[ 5764.015867] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5765.772484] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5765.772520] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5250, en=1
+[ 5768.061099] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5773.097185] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5775.810756] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5775.810789] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5260, en=1
+[ 5778.138293] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5783.198771] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5785.852537] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5785.852574] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5270, en=1
+[ 5788.257078] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5793.310662] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5795.892491] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5795.892527] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5280, en=1
+[ 5798.362146] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5803.413649] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5805.932565] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5805.932601] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5290, en=1
+[ 5808.461262] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5808.682246] [PM]--- dump_wakelocks ---
+[ 5808.682368] [PM]active wake lock msm_otg, active_time=5808212 ms
+[ 5812.290527] mmc0: Starting deferred resume
+[ 5812.374872] mmc0: Deferred resume completed
+[ 5813.503847] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5815.972553] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5815.972588] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5300, en=1
+[ 5818.558182] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5823.610095] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5826.012247] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=42, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5826.012284] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5310, en=1
+[ 5828.662251] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5833.711794] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5836.052900] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5836.052936] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5320, en=1
+[ 5838.763601] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5843.813589] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5846.091924] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5846.091957] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5330, en=1
+[ 5848.864001] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5853.801747] [PM]--- dump_wakelocks ---
+[ 5853.801869] [PM]active wake lock msm_otg, active_time=5853332 ms
+[ 5853.912807] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5856.131230] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5856.131266] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5340, en=1
+[ 5858.964211] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5864.012925] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5866.173094] SMB:brain_work: Cap=100, 98, VBAT=4289, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5866.173130] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5350, en=1
+[ 5868.064504] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5873.116412] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5876.212853] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5876.212889] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5360, en=1
+[ 5878.162802] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5883.204782] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5886.252951] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5886.252987] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5370, en=1
+[ 5888.258944] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5893.311538] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5896.293015] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5896.293051] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5380, en=1
+[ 5898.363660] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5898.921729] [PM]--- dump_wakelocks ---
+[ 5898.921851] [PM]active wake lock msm_otg, active_time=5898452 ms
+[ 5903.414183] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5906.333022] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5906.333058] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5390, en=1
+[ 5908.464436] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5913.513998] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5916.372974] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5916.373010] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5400, en=1
+[ 5918.564935] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5923.615758] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5926.412693] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=43, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5926.412729] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5410, en=1
+[ 5928.663459] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5933.705533] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5936.452988] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5936.453024] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5420, en=1
+[ 5938.759283] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5943.812422] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5944.041639] [PM]--- dump_wakelocks ---
+[ 5944.041761] [PM]active wake lock msm_otg, active_time=5943572 ms
+[ 5946.492956] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5946.492990] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5430, en=1
+[ 5948.863555] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5953.914123] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5956.533064] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5956.533099] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5440, en=1
+[ 5958.964999] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5964.014322] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5966.572687] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5966.572723] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5450, en=1
+[ 5968.063504] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5973.117438] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5976.608403] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5976.608439] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5460, en=1
+[ 5978.166935] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5983.224272] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5986.628028] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5986.628063] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5470, en=1
+[ 5988.271457] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5989.161747] [PM]--- dump_wakelocks ---
+[ 5989.161869] [PM]active wake lock msm_otg, active_time=5988692 ms
+[ 5993.318882] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 5996.647295] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 5996.647330] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5480, en=1
+[ 5998.367861] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6003.424628] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6006.672017] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6006.672050] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5490, en=1
+[ 6008.470973] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6013.521042] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6016.691038] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=35, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6016.691073] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5500, en=1
+[ 6018.568344] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6023.616804] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6026.731693] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6026.731728] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5510, en=1
+[ 6028.663694] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6033.703694] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6034.281762] [PM]--- dump_wakelocks ---
+[ 6034.281884] [PM]active wake lock msm_otg, active_time=6033812 ms
+[ 6036.773189] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=52, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6036.773224] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5520, en=1
+[ 6038.755061] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6043.808983] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6046.813025] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=35, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6046.813060] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5530, en=1
+[ 6048.861949] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6051.658001] mmc0: Starting deferred resume
+[ 6051.745397] mmc0: Deferred resume completed
+[ 6053.910344] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6056.853627] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6056.853663] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5540, en=1
+[ 6058.962703] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6064.011877] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6066.892948] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=39, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6066.892984] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5550, en=1
+[ 6068.062215] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6073.112894] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6076.932573] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6076.932606] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5560, en=1
+[ 6078.162898] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6079.401732] [PM]--- dump_wakelocks ---
+[ 6079.401855] [PM]active wake lock msm_otg, active_time=6078932 ms
+[ 6083.213249] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6086.972509] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6086.972545] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5570, en=1
+[ 6088.263239] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6093.313859] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6097.012492] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6097.012528] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5580, en=1
+[ 6098.363539] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6103.413718] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6107.052737] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=63, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6107.052772] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5590, en=1
+[ 6108.466102] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6111.250479] mmc0: Starting deferred resume
+[ 6111.333677] mmc0: Deferred resume completed
+[ 6113.516365] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6117.092492] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6117.092528] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5600, en=1
+[ 6118.572280] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6123.622233] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6124.521727] [PM]--- dump_wakelocks ---
+[ 6124.521849] [PM]active wake lock msm_otg, active_time=6124052 ms
+[ 6127.132566] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6127.132600] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5610, en=1
+[ 6128.666400] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6133.712478] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6137.172522] SMB:brain_work: Cap=100, 98, VBAT=4288, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6137.172559] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5620, en=1
+[ 6138.755071] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6141.016098] mmc0: Starting deferred resume
+[ 6141.103928] mmc0: Deferred resume completed
+[ 6143.810498] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6147.211018] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6147.211055] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5630, en=1
+[ 6148.862188] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6153.914227] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6157.252497] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6157.252533] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5640, en=1
+[ 6158.965578] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6159.200635] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6159.228486] QSEECOM: qseecom_load_app: App with id 57 (tzlibasb) now loaded
+[ 6159.241372] QSEECOM: qseecom_unload_app: App id 57 now unloaded
+[ 6159.304624] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6159.320813] QSEECOM: qseecom_load_app: App with id 58 (tzlibasb) now loaded
+[ 6159.333483] QSEECOM: qseecom_unload_app: App id 58 now unloaded
+[ 6161.348838] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6161.376860] QSEECOM: qseecom_load_app: App with id 59 (tzlibasb) now loaded
+[ 6161.390549] QSEECOM: qseecom_unload_app: App id 59 now unloaded
+[ 6163.257570] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6165.406156] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6165.434220] QSEECOM: qseecom_load_app: App with id 60 (tzlibasb) now loaded
+[ 6165.447554] QSEECOM: qseecom_unload_app: App id 60 now unloaded
+[ 6167.292042] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=54, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6167.292078] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5650, en=1
+[ 6168.310385] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6169.639984] [PM]--- dump_wakelocks ---
+[ 6169.640101] [PM]active wake lock msm_otg, active_time=6169170 ms
+[ 6171.562130] mmc0: Starting deferred resume
+[ 6171.646030] mmc0: Deferred resume completed
+[ 6173.359384] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6173.461445] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6173.477470] QSEECOM: qseecom_load_app: App with id 61 (tzlibasb) now loaded
+[ 6173.500251] QSEECOM: qseecom_unload_app: App id 61 now unloaded
+[ 6177.332152] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=52, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6177.332189] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5660, en=1
+[ 6178.412967] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6183.463089] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6187.372493] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6187.372526] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5670, en=1
+[ 6188.513118] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6189.515374] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6189.539294] QSEECOM: qseecom_load_app: App with id 62 (tzlibasb) now loaded
+[ 6189.551162] QSEECOM: qseecom_unload_app: App id 62 now unloaded
+[ 6193.563895] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6197.411918] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6197.411954] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5680, en=1
+[ 6198.613608] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6203.661644] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6207.452508] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6207.452545] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5690, en=1
+[ 6208.723622] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6213.769385] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6214.761730] [PM]--- dump_wakelocks ---
+[ 6214.761853] [PM]active wake lock msm_otg, active_time=6214292 ms
+[ 6217.492486] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=55, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6217.492523] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5700, en=1
+[ 6218.814762] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6221.566776] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6221.590488] QSEECOM: qseecom_load_app: App with id 63 (tzlibasb) now loaded
+[ 6221.604254] QSEECOM: qseecom_unload_app: App id 63 now unloaded
+[ 6223.865233] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6227.532556] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6227.532592] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5710, en=1
+[ 6228.914030] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6231.807921] mmc0: Starting deferred resume
+[ 6231.891332] mmc0: Deferred resume completed
+[ 6233.964422] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6237.572641] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6237.572678] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5720, en=1
+[ 6239.014782] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6243.065176] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6247.612481] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=56, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6247.612517] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5730, en=1
+[ 6248.123397] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6253.169204] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6257.652535] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6257.652571] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5740, en=1
+[ 6258.217612] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6259.882188] [PM]--- dump_wakelocks ---
+[ 6259.882263] [PM]active wake lock msm_otg, active_time=6259412 ms
+[ 6263.266200] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6267.692511] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6267.692547] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5750, en=1
+[ 6268.315308] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6273.366076] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6277.732124] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6277.732158] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5760, en=1
+[ 6278.418981] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6283.466604] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6285.620023] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6285.641700] QSEECOM: qseecom_load_app: App with id 64 (tzlibasb) now loaded
+[ 6285.654737] QSEECOM: qseecom_unload_app: App id 64 now unloaded
+[ 6287.773004] SMB:brain_work: Cap=100, 98, VBAT=4281, IBAT=67, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6287.773040] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5770, en=1
+[ 6288.516155] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6292.023046] mmc0: Starting deferred resume
+[ 6292.108014] mmc0: Deferred resume completed
+[ 6293.565360] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6297.812528] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=39, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6297.812564] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5780, en=1
+[ 6298.615737] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6303.665960] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6305.001865] [PM]--- dump_wakelocks ---
+[ 6305.001986] [PM]active wake lock msm_otg, active_time=6304532 ms
+[ 6307.852482] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6307.852518] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5790, en=1
+[ 6308.714931] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6313.766407] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6317.892538] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6317.892574] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5800, en=1
+[ 6318.815815] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6323.864350] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6327.932536] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6327.932571] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5810, en=1
+[ 6328.913608] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6333.964484] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6337.972518] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6337.972554] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5820, en=1
+[ 6339.014816] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6343.064649] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6348.011130] SMB:brain_work: Cap=100, 98, VBAT=4287, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6348.011166] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5830, en=1
+[ 6348.116321] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6350.119955] [PM]--- dump_wakelocks ---
+[ 6350.120073] [PM]active wake lock msm_otg, active_time=6349650 ms
+[ 6351.784548] mmc0: Starting deferred resume
+[ 6351.869065] mmc0: Deferred resume completed
+[ 6353.163917] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6358.050683] SMB:brain_work: Cap=100, 98, VBAT=4281, IBAT=70, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6358.050720] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5840, en=1
+[ 6358.212097] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6363.264556] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6368.092748] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6368.092784] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5850, en=1
+[ 6368.315060] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6373.364424] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6378.130598] SMB:brain_work: Cap=100, 98, VBAT=4279, IBAT=77, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6378.130635] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5860, en=1
+[ 6378.414774] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6383.465212] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6388.173000] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6388.173036] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5870, en=1
+[ 6388.523202] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6391.413085] mmc0: Starting deferred resume
+[ 6391.496439] mmc0: Deferred resume completed
+[ 6393.568999] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6395.241738] [PM]--- dump_wakelocks ---
+[ 6395.241798] [PM]active wake lock PowerManagerService.WakeLocks, active_time=17907 ms
+[ 6395.241891] [PM]active wake lock msm_otg, active_time=6394772 ms
+[ 6395.241957] [PMSWL]active PMS wake lock: 897 *alarm* 17.908475462 secs
+[ 6398.212489] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=36, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6398.212524] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5880, en=1
+[ 6398.625559] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6403.670719] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6408.252544] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=44, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6408.252578] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5890, en=1
+[ 6408.717484] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6412.389208] mmc0: Starting deferred resume
+[ 6412.473261] mmc0: Deferred resume completed
+[ 6413.669825] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6413.691502] QSEECOM: qseecom_load_app: App with id 65 (tzlibasb) now loaded
+[ 6413.703327] QSEECOM: qseecom_unload_app: App id 65 now unloaded
+[ 6413.764080] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6418.292618] SMB:brain_work: Cap=100, 98, VBAT=4279, IBAT=77, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6418.292654] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5900, en=1
+[ 6418.805904] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6423.864970] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6428.337863] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6428.337880] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5910, en=1
+[ 6428.915407] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6433.965396] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6438.370865] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6438.370901] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5920, en=1
+[ 6439.015280] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6440.361733] [PM]--- dump_wakelocks ---
+[ 6440.361856] [PM]active wake lock msm_otg, active_time=6439892 ms
+[ 6443.064963] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6448.115405] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6448.412001] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6448.412037] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5930, en=1
+[ 6453.165971] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6458.215912] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6458.452115] SMB:brain_work: Cap=100, 98, VBAT=4282, IBAT=55, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6458.452151] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5940, en=1
+[ 6463.265787] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6468.315762] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6468.492939] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6468.492974] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5950, en=1
+[ 6473.373383] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6478.418634] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6478.534233] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6478.534266] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5960, en=1
+[ 6483.473156] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6485.481736] [PM]--- dump_wakelocks ---
+[ 6485.481858] [PM]active wake lock msm_otg, active_time=6485012 ms
+[ 6488.518382] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6488.567799] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6488.567834] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5970, en=1
+[ 6493.574214] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6498.592513] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=31, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6498.592549] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5980, en=1
+[ 6498.619128] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6503.685430] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6508.612526] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6508.612562] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=5990, en=1
+[ 6508.746071] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6513.806438] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6518.652640] SMB:brain_work: Cap=100, 98, VBAT=4278, IBAT=83, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6518.652674] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6000, en=1
+[ 6518.860133] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6523.909009] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6528.692785] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=46, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6528.692821] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6010, en=1
+[ 6528.962175] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6530.601736] [PM]--- dump_wakelocks ---
+[ 6530.601859] [PM]active wake lock msm_otg, active_time=6530132 ms
+[ 6534.012788] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6538.063231] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6538.733290] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6538.733326] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6020, en=1
+[ 6543.114622] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6548.165471] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6548.772096] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6548.772132] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6030, en=1
+[ 6553.216164] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6558.267099] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6558.812985] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6558.813021] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6040, en=1
+[ 6563.316242] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6568.366314] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6568.852527] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6568.852562] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6050, en=1
+[ 6573.414694] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6575.721733] [PM]--- dump_wakelocks ---
+[ 6575.721854] [PM]active wake lock msm_otg, active_time=6575252 ms
+[ 6578.465467] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6578.892502] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=35, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6578.892536] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6060, en=1
+[ 6583.515790] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6588.566865] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6588.932559] SMB:brain_work: Cap=100, 98, VBAT=4286, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6588.932595] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6070, en=1
+[ 6593.059429] mmc0: Starting deferred resume
+[ 6593.146891] mmc0: Deferred resume completed
+[ 6593.621710] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6596.141764] android_pm_qos_update_latency: android_pm_qos_update_latency: latency updated to: 2
+[ 6596.142794] android_pm_qos_work: android_pm_qos_work: pm_qos_state:WFI, interrupts in last sample:108
+[ 6598.667348] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6598.962735] SMB:brain_work: Cap=100, 98, VBAT=4274, IBAT=107, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6598.962764] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6080, en=1
+[ 6601.149687] android_pm_qos_update_latency: android_pm_qos_update_latency: latency updated to: 1001
+[ 6601.149741] android_pm_qos_work: android_pm_qos_work: pm_qos_state:IDLE_PC, interrupts in last sample:0
+[ 6603.723388] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6608.768833] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6608.989715] SMB:brain_work: Cap=100, 98, VBAT=4282, IBAT=50, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6608.989751] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6090, en=1
+[ 6610.180076] android_pm_qos_update_latency: android_pm_qos_update_latency: latency updated to: 12701
+[ 6610.181212] android_pm_qos_work: android_pm_qos_work: pm_qos_state:IDLE_PC_RPM, interrupts in last sample:0
+[ 6613.816573] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6618.866574] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6619.010816] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=40, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6619.010853] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6100, en=1
+[ 6620.841725] [PM]--- dump_wakelocks ---
+[ 6620.841847] [PM]active wake lock msm_otg, active_time=6620372 ms
+[ 6623.915793] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6628.966006] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6629.052555] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6629.052591] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6110, en=1
+[ 6634.016115] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6638.065018] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6639.092709] SMB:brain_work: Cap=100, 98, VBAT=4279, IBAT=65, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6639.092745] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6120, en=1
+[ 6643.116934] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6648.165901] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6649.132576] SMB:brain_work: Cap=100, 98, VBAT=4282, IBAT=51, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6649.132614] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6130, en=1
+[ 6651.887078] mmc0: Starting deferred resume
+[ 6651.969948] mmc0: Deferred resume completed
+[ 6653.221322] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6658.264831] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6659.172527] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6659.172563] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6140, en=1
+[ 6663.305665] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6665.961732] [PM]--- dump_wakelocks ---
+[ 6665.961855] [PM]active wake lock msm_otg, active_time=6665492 ms
+[ 6668.365084] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6669.212532] SMB:brain_work: Cap=100, 98, VBAT=4282, IBAT=51, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6669.212568] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6150, en=1
+[ 6669.718794] QSEECOM: qseecom_load_app: App (tzlibasb) does'nt exist, loading apps for first time
+[ 6669.741279] QSEECOM: qseecom_load_app: App with id 66 (tzlibasb) now loaded
+[ 6669.752850] QSEECOM: qseecom_unload_app: App id 66 now unloaded
+[ 6673.414036] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6678.465393] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6679.252521] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6679.252558] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6160, en=1
+[ 6683.520512] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6688.585564] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6689.292540] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6689.292576] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6170, en=1
+[ 6693.656832] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6698.710253] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6699.332538] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6699.332575] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6180, en=1
+[ 6703.757583] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6708.806532] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6709.372531] SMB:brain_work: Cap=100, 98, VBAT=4285, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6709.372567] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6190, en=1
+[ 6711.081737] [PM]--- dump_wakelocks ---
+[ 6711.081858] [PM]active wake lock msm_otg, active_time=6710612 ms
+[ 6711.249483] mmc0: Starting deferred resume
+[ 6711.332211] mmc0: Deferred resume completed
+[ 6713.847596] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6718.922230] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6719.412547] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6719.412583] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6200, en=1
+[ 6723.957956] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6729.010542] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6729.452553] SMB:brain_work: Cap=100, 98, VBAT=4281, IBAT=54, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6729.452586] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6210, en=1
+[ 6733.058283] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6738.111749] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6739.492529] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6739.492565] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6220, en=1
+[ 6741.016023] mmc0: Starting deferred resume
+[ 6741.105513] mmc0: Deferred resume completed
+[ 6743.164198] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6748.214034] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6749.532537] SMB:brain_work: Cap=100, 98, VBAT=4282, IBAT=39, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6749.532574] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6230, en=1
+[ 6753.264289] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6756.201742] [PM]--- dump_wakelocks ---
+[ 6756.201864] [PM]active wake lock msm_otg, active_time=6755732 ms
+[ 6758.314124] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6759.572522] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6759.572558] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6240, en=1
+[ 6763.363611] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6768.414381] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6769.612526] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6769.612562] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6250, en=1
+[ 6771.559677] mmc0: Starting deferred resume
+[ 6771.643895] mmc0: Deferred resume completed
+[ 6773.466910] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6778.516707] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6779.652522] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6779.652558] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6260, en=1
+[ 6783.566435] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6788.616451] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6789.692521] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=30, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6789.692557] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6270, en=1
+[ 6793.664041] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6798.715656] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6799.732552] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6799.732588] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6280, en=1
+[ 6801.321767] [PM]--- dump_wakelocks ---
+[ 6801.321889] [PM]active wake lock msm_otg, active_time=6800852 ms
+[ 6803.766056] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6808.815846] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6809.772555] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=34, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6809.772590] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6290, en=1
+[ 6813.867029] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6818.916673] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6819.811321] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6819.811358] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6300, en=1
+[ 6823.966652] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6829.016756] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6829.852334] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=29, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6829.852370] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6310, en=1
+[ 6831.765496] mmc0: Starting deferred resume
+[ 6831.853706] mmc0: Deferred resume completed
+[ 6833.064502] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6838.115720] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6839.892426] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6839.892463] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6320, en=1
+[ 6843.165840] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6846.441757] [PM]--- dump_wakelocks ---
+[ 6846.441880] [PM]active wake lock msm_otg, active_time=6845972 ms
+[ 6848.216093] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6849.934814] SMB:brain_work: Cap=100, 98, VBAT=4284, IBAT=28, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6849.934849] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6330, en=1
+[ 6853.266119] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6858.316105] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6859.969684] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=33, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6859.969718] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6340, en=1
+[ 6863.366238] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6868.423498] init: cannot execve('/sbin/tad_static'): Permission denied
+[ 6870.013427] SMB:brain_work: Cap=100, 98, VBAT=4283, IBAT=32, T=260, USB=1, Type=1 BMD=1, Full=1,1 Delta=0
+[ 6870.013462] SMB:brain_work: vdd_max=4300, rechg=200, input_ma=500, input_type=0, fast_chg=1500 time=0, main=6350, en=1
+[ 6872.161026] SysRq : Emergency Remount R/O
+[ 6872.166056] mmc0: Starting deferred resume
+[ 6872.244615] mmc0: Deferred resume completed
+[ 6872.251337] ext4_msg: 5 callbacks suppressed
+[ 6872.251376] EXT4-fs (mmcblk0p29): re-mounted. Opts: (null)
+[ 6872.287179] EXT4-fs (mmcblk0p28): re-mounted. Opts: (null)
+[ 6872.294149] EXT4-fs (mmcblk0p17): re-mounted. Opts: (null)
+[ 6872.302303] EXT4-fs (mmcblk0p26): re-mounted. Opts: (null)
+[ 6872.304289] Emergency Remount complete
+[ 6872.379352] mdss_fb_release_all: try to close unopened fb 1! from init
+[ 6872.385421] SMB:smb1360_poweroff: power off smb1360
+[ 6872.385460] SMB:smb1360_enable_wd: enable watchdog = 1
+[ 6872.386845] SMB:smb1360_get_wd_status: WD_CFG_REG = 0x09
+[ 6872.387528] SMB:smb1360_enable: enable=0 shdn_polarity=0 value=0
+[ 6872.388478] SMB:smb1360_shutdown: smb1360 power off
+[ 6872.391096] msm_otg 78d9000.usb: OTG shutdown
+[ 6872.391762] Software Reset. Let's note!
+[ 6872.391794] Restarting system with command 'bootloader'.
+[ 6872.392961] Going down for restart now
+[ 6872.393022] Eric:w
+[ 6872.393617] Addr ffffff800103e65c set 77665500
+[ 6872.393816] scm_call failed: func id 0x82000109, arginfo: 0x2, args: 0x1, 0x0, 0x0, 0x0, ret: -2, syscall returns: 0xfffffffc, 0x0, 0x0
+[ 6872.393844] Failed to disable secure wdog debug: -22
